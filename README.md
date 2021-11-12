@@ -1,3 +1,3 @@
-# cld-javascript-sdk-docs-quickstart2
-Created with CodeSandbox
-Update from GitHub
+# cld-javascript-sdk-docs-quickstart
+
+Quickstart example from the Cloudinary JavaScript SDK docs.
